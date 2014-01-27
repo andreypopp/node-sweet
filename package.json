@@ -1,0 +1,30 @@
+{
+  "name": "node-sweet",
+  "version": "0.0.0",
+  "description": "Using sweet.js in Node the right way",
+  "main": "index.js",
+  "bin": {"node-sweet": "./node-sweet"},
+  "dependencies": {
+    "sweet.js": "~0.4.1",
+    "resolve": "~0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreypopp/node-sweet"
+  },
+  "keywords": [
+    "node",
+    "sweet",
+    "macros"
+  ],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreypopp/node-sweet/issues"
+  },
+  "homepage": "https://github.com/andreypopp/node-sweet"
+}
